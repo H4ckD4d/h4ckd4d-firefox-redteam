@@ -1,4 +1,3 @@
-cat > README.md <<'EOF'
 # h4ckd4d Firefox Red Team Mode
 
 Hi — I’m **h4ckd4d**.  
@@ -26,3 +25,4 @@ git clone https://github.com/H4ckD4d/h4ckd4d-firefox-redteam.git
 cd h4ckd4d-firefox-redteam
 bash scripts/install-linux-macos.sh
 bash scripts/verify-linux-macos.sh
+```
